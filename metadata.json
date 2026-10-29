@@ -1,0 +1,6 @@
+{
+  "name": "KimHungAI Chuyển Tiếp",
+  "description": "Cổng kết nối và chuyển hướng tự động đến KimHungAI (https://KimHungAI.floot.app)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
